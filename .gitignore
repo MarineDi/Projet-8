@@ -4,3 +4,10 @@ node_modules/todomvc-app-css
 node_modules/todomvc-common
 !node_modules/todomvc-common/base.js
 !node_modules/todomvc-common/base.css
+
+node_modules/jasmine-core
+!node_modules/jasmine-core/images/jasmine_favicon.png
+!node_modules/jasmine-core/lib/jasmine-core/jasmine.css
+!node_modules/jasmine-core/lib/jasmine-core/jasmine.js
+!node_modules/jasmine-core/lib/jasmine-core/jasmine-html.js
+!node_modules/jasmine-core/lib/jasmine-core/boot.js
